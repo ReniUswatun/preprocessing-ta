@@ -1,0 +1,7 @@
+.venv
+raw_dataset/
+/raw_dataset
+checkpoints/
+setfit_model_category/
+setfit_model_sentiment/
+.ipynb_checkpoints/
